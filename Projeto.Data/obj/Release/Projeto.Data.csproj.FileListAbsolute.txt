@@ -1,0 +1,12 @@
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\Projeto.Data.dll.config
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\Projeto.Data.dll
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\Projeto.Data.pdb
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\EntityFramework.dll
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\EntityFramework.xml
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\obj\Release\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\obj\Release\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\obj\Release\Projeto.Data.csproj.CopyComplete
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\obj\Release\Projeto.Data.dll
+C:\Users\Coti-Maq04\Downloads\Aula26\Projeto.Data\obj\Release\Projeto.Data.pdb
